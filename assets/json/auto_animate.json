@@ -1,0 +1,31 @@
+{
+    "type": "scaffold",
+    "args": {
+      "appBar": {
+        "type": "app_bar",
+        "args": {
+          "title": {
+            "type": "text",
+            "args": {
+              "data": "dynamic Widgets"
+            }
+          }
+        }
+      },
+      "body": {
+        "type": "center",
+        "args": {
+          "child": {
+            "type": "text",
+            "args": {
+              "text": "Ini dynamic widgets testing",
+              "style": {
+                "color": "#0000FF"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
